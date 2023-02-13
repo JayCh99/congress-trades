@@ -4,4 +4,4 @@ Downloads and parses stock trades reported by members of the U.S. House of Repre
 Reports (PTRs). To download trades for all years, run the code as is. To download trades for a specfic year, specify the
 year in main.py.
 
-filing.py contains code to access each filing report based on yearly overviews. transactions.py parses each transaction out of a filing report.
+filing.py contains code to access each filing report based on yearly overviews. transactions.py parses each transaction out of a filing report. The yearly overviews and filing reports are downloaded locally as PDFs.
