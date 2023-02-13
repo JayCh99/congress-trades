@@ -1,4 +1,4 @@
-# congress-trades
+# Congress Trades
 
 Downloads and parses stock trades reported by members of the U.S. House of Representatives in Periodic Transaction 
 Reports (PTRs). To download trades for all years, run the code as is. To download trades for a specfic year, specify the
